@@ -1,0 +1,5 @@
+names:
+- Barcode
+nc: 1
+train: D:/SIR2/yolo/train/images
+val: D:/SIR2/yolo/val/images
